@@ -25,6 +25,3 @@ const main = async () => {
 }
 
 main()
-
-// TODO: Eliminate duplicate event
-// TODO: Filter down to only addresses we care about
