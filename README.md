@@ -9,7 +9,8 @@ Install ganache `npm i ganache -g`
 
 Install truffle `npm i truffle -g`
 
-Start ganache `ganache-cli --fork https://mainnet.infura.io/v3/{apikey} --unlock 0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2 -p 7545`
+Start ganache <br> 
+`ganache-cli --fork https://mainnet.infura.io/v3/{apikey} --unlock 0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2 -p 7545`
 
 Start truffle `truffle console`
 
