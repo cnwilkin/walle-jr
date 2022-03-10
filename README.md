@@ -31,7 +31,8 @@ await web3.eth.sendTransaction({ from: account, to: dest, value: web3.utils.toWe
   - FTX Exchange address: `0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2` could be interesting
 - [x] Setup ganache and fork the mainnet for easier dev work
 - [x] Setup monitoring in console log
-- [ ] Finish TODO items
+- [ ] Eliminate duplicate event
+- [ ] Filter down to only addresses we care about
 - [ ] Figure out if we can monitor mainnet directly or if we have to pay for that
 - [ ] Store events
 
